@@ -3,9 +3,7 @@
 
 using namespace std;
 
-char board[3][3] = {{' ', ' ', ' '},
-					{' ', ' ', ' '},
-					{' ', ' ', ' '}};
+char board[3][3] = {{' ', ' ', ' '}, {' ', ' ', ' '},{' ', ' ', ' '}};
 int rows, columns;
 char _playerturn = 'O';
 int choice;
